@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.muwafi.universitiesapp",
+      "sha256_cert_fingerprints":
+      ["B1:B3:BE:A0:D1:CF:25:B1:2C:61:31:9E:13:39:0B:E0:28:1C:50:AD:8C:96:22:85:2B:CA:22:19:35:AF:28:BD","9C:B6:15:C4:04:56:59:DF:3B:B2:89:37:4D:08:47:7B:5B:65:50:0B:E3:54:E5:3B:16:0E:C4:E6:77:36:B1:08"]
+    }
+  }]
